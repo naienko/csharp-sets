@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.2\sets.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.2\sets.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.2\sets.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.2\sets.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.2\sets.deps.json
+C:\Users\naienko\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.2\sets.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.2\sets.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.2\sets.dll
+C:\Users\naienko\workspace\csharp\exercises\sets\bin\Debug\netcoreapp2.2\sets.pdb
+C:\Users\naienko\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.2\sets.dll
+C:\Users\naienko\workspace\csharp\exercises\sets\obj\Debug\netcoreapp2.2\sets.pdb
